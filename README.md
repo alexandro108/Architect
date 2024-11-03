@@ -12,6 +12,7 @@
 * [Не функциональные требования](#nonfunctions)
 * [Архитектурные опции](#options)
 * [Architecture Decision Records](#adr)
+* [Сценарии использования приложения](#use)
 
 ## <a name="bussiness"></a> 1. Бизнес цели
 * Увеличение объема продаж
@@ -74,6 +75,9 @@
 ## <a name="adr"></a> 11. Architecture Decision Records
 * [001_template](ADR/001_template.md)
 * [002_системный_подход](ADR/002_approach.md)
+  
+## <a name="use"></a> 12. Сценарии использования приложения
+![Сценарии использования](pics/use.jpg)
 
  
 
