@@ -72,7 +72,8 @@
 * При глобальном проекте можно начинать сразу с микросервиса
 
 ## <a name="adr"></a> 11. Architecture Decision Records
- ![ADR](ADR/example.md)
+* [001_template](ADR/001_template.md)
+* [002_системный_подход](ADR/002_approach.md)
 
  
 
