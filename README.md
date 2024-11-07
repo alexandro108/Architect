@@ -86,6 +86,7 @@
 
 ## <a name="presentations"></a> 14. Основные представления
 ![Функциональное представление](pics/functional.png)
+![Информационное представление](pics/information.png)
 
  
 
