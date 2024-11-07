@@ -14,6 +14,7 @@
 * [Architecture Decision Records](#adr)
 * [Сценарии использования приложения](#use)
 * [Базовая архитектура](#basicarc)
+* [Основные представления](#presentations)
 
 ## <a name="bussiness"></a> 1. Бизнес цели
 * Увеличение объема продаж
@@ -83,6 +84,8 @@
 ## <a name="basicarc"></a> 13. Базовая архитектура
 ![Базовая архитектура](pics/basic.png)
 
+## <a name="presentations"></a> 14. Основные представления
+![Функциональное представление](pics/functional.png)
 
  
 
